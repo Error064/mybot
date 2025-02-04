@@ -1,6 +1,6 @@
 requests
 user_agent
-requests_toolbelt.multipart.encoder
+requests_toolbelt
 requests.packages.urllib3.exceptions
 typing
 Dict
