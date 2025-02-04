@@ -1,5 +1,4 @@
 requests
-random
 string
 user_agent
 time
