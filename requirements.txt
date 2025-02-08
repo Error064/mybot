@@ -1,4 +1,5 @@
 requests
+user_agent
 pyTelegramBotAPI
 requests_toolbelt
 pycountry
