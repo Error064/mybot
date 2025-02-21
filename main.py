@@ -490,7 +490,7 @@ def handle_stop_callback(call):
             break
 
 # Add after imports
-ALLOWED_USER_IDS = [5602775702, 1264607403]
+ALLOWED_USER_IDS = [5602775702, 1264607403, 237308004]
 ALLOWED_GROUP_ID = -1002256921476  # Add this line
 
 def check_user_permission(message):
