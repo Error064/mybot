@@ -1,6 +1,9 @@
-requests
-user_agent
-pyTelegramBotAPI
-requests_toolbelt
-pycountry
-typing
+python-telegram-bot==20.7
+requests==2.31.0
+asyncio==3.4.3
+threading==3.10.0
+concurrent-log-handler==0.9.24
+urllib3==1.26.18
+certifi==2023.11.17
+charset-normalizer==3.3.2
+idna==3.6
